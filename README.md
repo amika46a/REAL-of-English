@@ -61,3 +61,6 @@
 - 通知機能（現時点では、WebSocket通信・ActionCable　の使用を考えています）
 - 検索機能（現時点では、Stimulus Autocomplete　の導入を考えています）
 - ランキング機能（毎日0時更新）
+
+## ■ ER図
+https://drive.google.com/file/d/123ScBVItBmR_VYYb5sz0v8Ovoey8oywv/view?usp=sharing
