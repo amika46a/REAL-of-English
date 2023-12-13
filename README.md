@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # サービス名　「REAL English」
 
 ## ■サービス概要
@@ -23,7 +22,7 @@
 - 全ユーザー内での学習時間TOP１０を毎日ランキング表示することで、モチベーションを保ち学習を継続することができます。
 - 英語関連の疑問や気づきなどを投稿でき、コメントや「私も知りたい」「なるほど」などのスタンプを押して、ユーザー同士交流ができます。
 - 辞書ページ（一般、個人）両ページにて、知りたい単語などの検索が出来ます。
-  
+
 ***ログインしていないユーザー***
 - 辞書ページ（一般）閲覧、検索
 
@@ -69,28 +68,3 @@ https://drive.google.com/file/d/123ScBVItBmR_VYYb5sz0v8Ovoey8oywv/view?usp=shari
 ## ■ 画面遷移図
 https://www.figma.com/file/AjMovVQ2fmYYxLF8xsr00J/%E7%94%BB%E9%9D%A2%E6%8E%A8%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=YzZS9lRknDDuZDhM-1
 =======
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> ef53da1 (環境構築)
